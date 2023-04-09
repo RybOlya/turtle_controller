@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>turtle_controller</name>
+  <version>0.1.0</version>
+  <description>ROS2 node for controlling a turtlesim bot using a keyboard</description>
+  <maintainer email="olga9rybenchuk@gmail.com">RybOlya</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>rclcpp</build_depend>
+  <build_depend>turtlesim</build_depend>
+  <exec_depend>rclcpp</exec_depend>
+  <exec_depend>turtlesim</exec_depend>
+</package>

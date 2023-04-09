@@ -1,0 +1,6 @@
+# Override keys for controlling the turtle
+go_forward_key: 63232   # Up arrow key
+turn_left_key: 63234    # Left arrow key
+turn_right_key: 63235   # Right arrow key
+pen_up_key: 117         # 'u' key
+pen_down_key: 111       # 'o' key

@@ -1,0 +1,6 @@
+# Default keys for controlling the turtle
+go_forward_key: 103
+turn_left_key: 100
+turn_right_key: 102
+pen_up_key: 112
+pen_down_key: 108
